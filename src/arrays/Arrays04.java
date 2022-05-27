@@ -21,6 +21,10 @@ public class Arrays04 {
             .thenComparing(Comparator.naturalOrder()));
 
     System.out.println(Arrays.toString(s));
+
         System.out.println("24. line in main branch");
+
+        System.out.println("24.satir firstbranchdayim");
+
     }
 }
